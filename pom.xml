@@ -190,7 +190,7 @@
 		<module>spring-cloud-netflix-dependencies</module>
 		<module>spring-cloud-netflix-archaius</module>
 		<!-- Not part of the reactor build: build and deploy separately -->
-		<!--module>spring-cloud-netflix-hystrix-contract</module-->
+		<module>spring-cloud-netflix-hystrix-contract</module>
 		<module>spring-cloud-netflix-core</module>
 		<module>spring-cloud-netflix-concurrency-limits</module>
 		<module>spring-cloud-netflix-hystrix-dashboard</module>
